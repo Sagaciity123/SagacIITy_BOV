@@ -1,2 +1,0 @@
-The command to run the client node and subscribe the data of G29 is:
-rosrun comm_tcp client_node "SERVER_IP_IN_STRING" "27015" -e
